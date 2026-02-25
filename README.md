@@ -31,7 +31,7 @@ I build and maintain tooling around Kubernetes, Terraform, Ansible, observabilit
 ![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4)
 ![Debian](https://img.shields.io/badge/Debian-OS-A81D33)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-OS-E95420)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-Unix-AB2B28)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-AB2B28)
 ![New Relic](https://img.shields.io/badge/New%20Relic-Observability-1CE783)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248)
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB)
