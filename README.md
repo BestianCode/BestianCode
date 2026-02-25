@@ -49,6 +49,9 @@ This is only a small part of my public libraries and projects that I can publish
 
 - 🧰 **[ansible.collection.sysadmin](https://github.com/BestianCode/ansible.collection.sysadmin)** - My core collection of system roles for FreeBSD and Debian/Ubuntu; most other Ansible roles here are recommended to use together with it.
 - 🔐 **[ansible.collection.nginx_ssl](https://github.com/BestianCode/ansible.collection.nginx_ssl)** - Reusable Nginx reverse proxy and Let's Encrypt SSL automation roles.
+
+**Censorship Circumvention and VPN/Proxy Tooling**
+
 - 🌐 **[ansible.role.xray_vpn_server](https://github.com/BestianCode/ansible.role.xray_vpn_server)** - Xray VPN server provisioning with templated configs and service management.
 - 🛡️ **[ansible.role.anonymous_proxy](https://github.com/BestianCode/ansible.role.anonymous_proxy)** - Authenticated forward proxy automation for FreeBSD/Linux.
 - 📡 **[ansible.role.signal_proxy](https://github.com/BestianCode/ansible.role.signal_proxy)** - Signal TLS proxy deployment role for restricted-network scenarios.
