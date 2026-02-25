@@ -30,7 +30,7 @@ I build and maintain tooling around Kubernetes, Terraform, Ansible, observabilit
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000)
 ![New Relic](https://img.shields.io/badge/New%20Relic-Observability-1CE783)
 ![AI/ML Workloads](https://img.shields.io/badge/AI%2FML-Workload%20Automation-0A7EA4)
-![Networking](https://img.shields.io/badge/Networking-Routing%20%7C%20VPN%20%7C%20IPv6-0052CC)
+![Networking](https://img.shields.io/badge/Networking-Infrastructure-0052CC)
 ![Security](https://img.shields.io/badge/Security-Hardening%20%7C%20IAM%20%7C%20SSO-B71C1C)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
