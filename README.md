@@ -51,7 +51,7 @@ This is only a small part of my public libraries and projects that I can publish
 
 **Education**
 
-- 🎓 **[PolinaAI](https://github.com/BestianCode/PolinaAI)** - A simple educational ML project for kids: cat-vs-dog classification with MobileNet to explain how ML works in practice.
+- 🐱🐶 **[PolinaAI](https://github.com/BestianCode/PolinaAI)** - A simple educational ML project for kids: cat-vs-dog classification with MobileNet to explain how ML works in practice.
 
 **Core Ansible Automation**
 
