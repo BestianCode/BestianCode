@@ -55,35 +55,35 @@ This is only a small part of my public libraries and projects that I can publish
 
 **Core Ansible Automation**
 
-- 🧰 **[ansible.collection.sysadmin](https://github.com/BestianCode/ansible.collection.sysadmin)** - My core collection of system roles for FreeBSD and Debian/Ubuntu; most other Ansible roles here are recommended to use together with it.
-- 🔐 **[ansible.collection.nginx_ssl](https://github.com/BestianCode/ansible.collection.nginx_ssl)** - Reusable Nginx reverse proxy and Let's Encrypt SSL automation roles.
+- **[ansible.collection.sysadmin](https://github.com/BestianCode/ansible.collection.sysadmin)** - My core collection of system roles for FreeBSD and Debian/Ubuntu; most other Ansible roles here are recommended to use together with it.
+- **[ansible.collection.nginx_ssl](https://github.com/BestianCode/ansible.collection.nginx_ssl)** - Reusable Nginx reverse proxy and Let's Encrypt SSL automation roles.
 
 **Censorship Circumvention and VPN/Proxy Tooling**
 
-- 🌐 **[ansible.role.xray_vpn_server](https://github.com/BestianCode/ansible.role.xray_vpn_server)** - Xray VPN server provisioning with templated configs and service management.
-- 🛡️ **[ansible.role.anonymous_proxy](https://github.com/BestianCode/ansible.role.anonymous_proxy)** - Authenticated forward proxy automation for FreeBSD/Linux.
-- 📡 **[ansible.role.signal_proxy](https://github.com/BestianCode/ansible.role.signal_proxy)** - Signal TLS proxy deployment role for restricted-network scenarios.
+- **[ansible.role.xray_vpn_server](https://github.com/BestianCode/ansible.role.xray_vpn_server)** - Xray VPN server provisioning with templated configs and service management.
+- **[ansible.role.anonymous_proxy](https://github.com/BestianCode/ansible.role.anonymous_proxy)** - Authenticated forward proxy automation for FreeBSD/Linux.
+- **[ansible.role.signal_proxy](https://github.com/BestianCode/ansible.role.signal_proxy)** - Signal TLS proxy deployment role for restricted-network scenarios.
 
 **Infrastructure and CI/CD**
 
-- 🧱 **[Terraform](https://github.com/BestianCode/terraform)** - Reusable Terraform modules
-- ⚙️ **[GitHub](https://github.com/BestianCode/github)** - Reusable GitHub Actions
-- ☸️ **[docker.k8s.cloud.tools](https://github.com/BestianCode/docker.k8s.cloud.tools)** - CI-ready Docker image with Docker, kubectl, Helm, and cloud CLIs for Kubernetes delivery pipelines.
-- 📦 **[docker.terraform.cloud.tools](https://github.com/BestianCode/docker.terraform.cloud.tools)** - CI-ready Docker image with Terraform and cloud CLIs for IaC pipelines.
+- **[Terraform](https://github.com/BestianCode/terraform)** - Reusable Terraform modules
+- **[GitHub](https://github.com/BestianCode/github)** - Reusable GitHub Actions
+- **[docker.k8s.cloud.tools](https://github.com/BestianCode/docker.k8s.cloud.tools)** - CI-ready Docker image with Docker, kubectl, Helm, and cloud CLIs for Kubernetes delivery pipelines.
+- **[docker.terraform.cloud.tools](https://github.com/BestianCode/docker.terraform.cloud.tools)** - CI-ready Docker image with Terraform and cloud CLIs for IaC pipelines.
 
 **Observability Exporters**
 
-- 📈 **[wavespeed.ai.statistics.prometheus.exporter](https://github.com/BestianCode/wavespeed.ai.statistics.prometheus.exporter)** - Prometheus exporter for Wavespeed.ai usage and balance metrics, with Grafana dashboard and Helm chart included.
-- 🚆 **[deutschebahn.timetable.prometheus.exporter](https://github.com/BestianCode/deutschebahn.timetable.prometheus.exporter)** - Deutsche Bahn timetable exporter for Prometheus with Grafana dashboard and Helm chart assets.
-- 🗂️ **[prometheus.folder.list.exporter](https://github.com/BestianCode/prometheus.folder.list.exporter)** - Lightweight exporter for file size and file age metrics.
+- **[wavespeed.ai.statistics.prometheus.exporter](https://github.com/BestianCode/wavespeed.ai.statistics.prometheus.exporter)** - Prometheus exporter for Wavespeed.ai usage and balance metrics, with Grafana dashboard and Helm chart included.
+- **[deutschebahn.timetable.prometheus.exporter](https://github.com/BestianCode/deutschebahn.timetable.prometheus.exporter)** - Deutsche Bahn timetable exporter for Prometheus with Grafana dashboard and Helm chart assets.
+- **[prometheus.folder.list.exporter](https://github.com/BestianCode/prometheus.folder.list.exporter)** - Lightweight exporter for file size and file age metrics.
 
 **Cloud and Utility Tooling**
 
-- ☁️ **[ansible.role.install_gcp_cli](https://github.com/BestianCode/ansible.role.install_gcp_cli)** - Ansible role to install and maintain Google Cloud CLI on Linux hosts.
-- ☁️ **[ansible.role.install_awscli_v2](https://github.com/BestianCode/ansible.role.install_awscli_v2)** - Ansible role to install and maintain AWS CLI v2 on Linux hosts.
-- 🐍 **[py.lib.cloud](https://github.com/BestianCode/py.lib.cloud)** - Unified Python library for AWS S3, Azure Blob, and GCP Storage operations.
+- **[ansible.role.install_gcp_cli](https://github.com/BestianCode/ansible.role.install_gcp_cli)** - Ansible role to install and maintain Google Cloud CLI on Linux hosts.
+- **[ansible.role.install_awscli_v2](https://github.com/BestianCode/ansible.role.install_awscli_v2)** - Ansible role to install and maintain AWS CLI v2 on Linux hosts.
+- **[py.lib.cloud](https://github.com/BestianCode/py.lib.cloud)** - Unified Python library for AWS S3, Azure Blob, and GCP Storage operations.
 
 **GPU Platform Roles**
 
-- 🚀 **[ansible.role.gpu_nvidia_cuda_install](https://github.com/BestianCode/ansible.role.gpu_nvidia_cuda_install)** - Ansible role for preparing Ubuntu GPU nodes with NVIDIA drivers and CUDA toolkit.
-- 🧹 **[ansible.role.gpu_infiniband_remove](https://github.com/BestianCode/ansible.role.gpu_infiniband_remove)** - Ansible role for cleaning up InfiniBand/MLNX OFED packages from GPU hosts.
+- **[ansible.role.gpu_nvidia_cuda_install](https://github.com/BestianCode/ansible.role.gpu_nvidia_cuda_install)** - Ansible role for preparing Ubuntu GPU nodes with NVIDIA drivers and CUDA toolkit.
+- **[ansible.role.gpu_infiniband_remove](https://github.com/BestianCode/ansible.role.gpu_infiniband_remove)** - Ansible role for cleaning up InfiniBand/MLNX OFED packages from GPU hosts.
