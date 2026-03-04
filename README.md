@@ -63,6 +63,7 @@ This is only a small part of my public libraries and projects that I can publish
 - **[ansible.role.xray_vpn_server](https://github.com/BestianCode/ansible.role.xray_vpn_server)** - Xray VPN server provisioning with templated configs and service management.
 - **[ansible.role.anonymous_proxy](https://github.com/BestianCode/ansible.role.anonymous_proxy)** - Authenticated forward proxy automation for FreeBSD/Linux.
 - **[ansible.role.signal_proxy](https://github.com/BestianCode/ansible.role.signal_proxy)** - Signal TLS proxy deployment role for restricted-network scenarios.
+- **[ansible.role.backup_to_s3](https://github.com/BestianCode/ansible.role.backup_to_s3)** - Ansible role that backs up directories to AWS S3 with service quiescing, local rotation, and a graduated S3 retention policy (purge).
 
 **Infrastructure and CI/CD**
 
